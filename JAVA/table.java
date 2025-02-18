@@ -30,7 +30,8 @@ public class table {
     int n = sc.nextInt();
     
      for(int i=1; i<11; i++){
-      System.out.println( n;"*"; i; "="; i*n);
+      System.out.println( n+"*"+ i+ "="+ (i*n));
      }
+     sc.close();
   }
 }

@@ -28,6 +28,7 @@ public class  conditional{
             break;
             default: System.out.println("button glat dabaya hai");
             }
+            sc.close();
         }
     }
         
